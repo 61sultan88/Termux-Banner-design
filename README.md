@@ -1,12 +1,14 @@
-# Termux Banner
-#Script by Sutariya Parixit
+# Termux Banner by ADTECH
+#script from atul dighe
+
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone 
+https://github.com/61sultan88/Termux-Banner-design-by-ADTECH.git
 
+2) cd Termux Banner design by ADTECH
 
-2) cd Termux-Banner
 
 
 3) chmod +x requirement.sh
@@ -19,4 +21,4 @@ Installation Step :
 
 
 6) bash t-ban.sh
-
+type names and enjoy 👍 to
