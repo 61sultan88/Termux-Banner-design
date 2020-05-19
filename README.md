@@ -1,4 +1,4 @@
-# Termux Banner by ADTECH
+# Termux Banner Design
 #script from atul dighe
 
 
