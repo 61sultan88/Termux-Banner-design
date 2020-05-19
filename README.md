@@ -5,7 +5,8 @@
 Installation Step :
 
 1) git clone 
-https://github.com/61sultan88/Termux-Banner-design-by-ADTECH.git
+https://github.com/61sultan88/Termux-Banner-design.git
+
 
 2) cd Termux Banner design by ADTECH
 
